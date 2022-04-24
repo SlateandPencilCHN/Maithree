@@ -3458,7 +3458,7 @@ li {
     height: 100%;
     width: 100%;
     content: "";
-    background: rgba(44, 39, 52, .95);
+    background: rgba(44, 39, 52, 0.575);
 }
 
 .footer-widget__text {
@@ -3828,7 +3828,7 @@ li {
     height: 100%;
     width: 100%;
     content: "";
-    background: rgba(44, 39, 52, .92);
+    background: rgba(44, 39, 52, 0.664);
 }
 
 .counter-one__single {
@@ -5730,7 +5730,7 @@ li {
     width: 100%;
     content: "";
     background-color: var(--thm-black);
-    opacity: 0.6;
+    opacity: 0.2;
 }
 
 .page-header__inner {
