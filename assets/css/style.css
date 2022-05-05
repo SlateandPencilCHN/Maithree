@@ -3464,7 +3464,7 @@ li {
 .footer-widget__text {
     text-align: justify;
     font-size: 16px;
-    color: #b5b1bc;
+    color: #ffffff;
     margin: 0;
     padding-top: 20px;
     padding-bottom: 19px;
@@ -3533,7 +3533,7 @@ li {
 }
 
 .footer-widget__explore-list li a {
-    color: #b5b1bc;
+    color: #ffffff;
     font-size: 16px;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
@@ -3577,13 +3577,13 @@ li {
 }
 
 .footer-widget__contact-list li .text p {
-    color: #b5b1bc;
+    color: #ffffff;
     font-size: 16px;
     margin: 0;
 }
 
 .footer-widget__contact-list li .text p a {
-    color: #b5b1bc;
+    color: #ffffff;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -3593,7 +3593,7 @@ li {
 }
 
 .footer-widget__support-text {
-    color: #b5b1bc;
+    color: #ffffff;
     font-size: 16px;
     margin: 0;
     padding-top: 3px;
@@ -3641,7 +3641,7 @@ li {
 
 .site-footer-bottom__left p {
     font-size: 16px;
-    color: #b5b1bc;
+    color: #ffffff;
     margin: 0;
 }
 
@@ -3665,14 +3665,14 @@ li {
 }
 
 .site-footer-bottom__menu li a {
-    color: #b5b1bc;
+    color: #ffffff;
     font-size: 16px;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
 
 .site-footer-bottom__menu li span {
-    color: #b5b1bc;
+    color: #ffffff;
     font-size: 16px;
 }
 
